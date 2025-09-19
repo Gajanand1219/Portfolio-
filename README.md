@@ -28,5 +28,5 @@ If you're interested in collaborating or want to know more, feel free to reach o
 
 ## Contact
 📧 gajanand1902@gmail.com
-💼 [LinkedIn](#)  
-🐙 [GitHub](#)
+💼 [LinkedIn](https://www.linkedin.com/in/gajanan-deshmukh2004/)  
+🐙 [GitHub](https://github.com/Gajanand1219)
